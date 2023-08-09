@@ -4,7 +4,7 @@
 ---------------------------------------------------------------------------------------------------------------
 ### 📄 __PROJECT__ DESCRIPTION 📄 __:__ This project is done to display an customer's data of their registration and login credentials and what kind of pizza they had bought.
 ---------------------------------------------------------------------------------------------------------------
-### ⚙️ __REALTIME__ USAGE ⚙️ __:__ 
+### ⚙️ __REALTIME__ USAGE ⚙️ __:__ Pizza Companies
 ---------------------------------------------------------------------------------------------------------------
 ### 💻 __TECHNICAL__ SPECIFICATIONS 💻 __:__
 * HTML
